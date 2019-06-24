@@ -3,8 +3,8 @@
 3 file_1
 4 file_1
 5 file_1
-6 file_1
-7 file_1
+6 file_1 folder2
+7 file_1 folder2
 8 file_1
 9 file_1 step8
 10 file_1 step8
