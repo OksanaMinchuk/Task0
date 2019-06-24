@@ -1,5 +1,7 @@
 1 file_2 step 5
 2 file_2 step 5
+1 file_2 step 4
+2 file_2 step 4
 3 file_2
 4 file_2
 5 file_2
