@@ -3,5 +3,6 @@ public class AppMain {
         System.out.println("hello_master_1");
         System.out.println("hello_master_2");
         System.out.println("feature_1");
+        System.out.println("feature_2");
     }
 }
